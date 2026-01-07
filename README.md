@@ -49,5 +49,68 @@ O plano foi estruturado para uma turma de **32 alunos**, com duração de **50 m
 
 ## 👥 Personalização para Dois Perfis de Estudantes  
 
+## 👥 Personalização para Dois Perfis de Estudantes  
+
 - **Perfil A – Estudante com dificuldades de leitura:**  
-  - Linguagem simples, instruções passo a passo, apoio visual extra, tempo adicional e a
+  - Linguagem simples, instruções passo a passo, apoio visual extra, tempo adicional e avaliação adaptada.
+
+- **Perfil B – Estudante com alto interesse/avançado:**  
+  - Desafios de extensão, problemas contextualizados e conexões com frações equivalentes e simplificação.
+
+[Assistido por IA]
+
+---
+
+## 🌍 Internacionalização  
+
+- **Idioma principal:** Português (Brasil)  
+- **Tradução:** trecho do material traduzido para **Inglês – CEFR A2**, com vocabulário matemático básico.  
+- **Uso pedagógico:** apoio a estudantes multilíngues e introdução gradual ao inglês acadêmico.
+
+[Assistido por IA – Tradução]
+
+---
+
+## 🔐 Ética, Privacidade e Direitos Autorais  
+
+- Nenhum dado pessoal real de estudantes foi utilizado.  
+- Exemplos e atividades são **genéricos e anonimizados**, em conformidade com a LGPD.  
+- Todos os textos e materiais são **originais** ou orientados para uso de recursos com licença aberta.  
+- O uso de IA é **explicitamente sinalizado**, com revisão e curadoria humana em todas as etapas.
+
+[Assistido por IA]
+
+---
+
+## 🔗 Arquivos do Projeto  
+
+- 📄 **Plano de Aula:**  
+  - `Plano_de_Aula_IA.pdf`  
+  - `Plano_de_Aula_IA.docx`
+
+- 📊 **Apresentação:**  
+  - `Apresentacao_Aula_IA.pptx`
+
+- 📝 **Reflexão Crítica:**  
+  - `Reflexao_IA.docx`  
+  - `Reflexao_IA.pdf`
+
+---
+
+## ✅ Checklist de Conformidade  
+
+- [x] Plano completo com seções e marcação [Assistido por IA]  
+- [x] Materiais complementares prontos  
+- [x] Adaptação para dois perfis implementada  
+- [x] Tradução (Inglês CEFR A2) incluída  
+- [x] Apresentação `.pptx` gerada  
+- [x] README.md com links e reflexão  
+- [x] Conformidade ética, autoral e rubrica avaliativa incluída  
+
+---
+
+## ©️ Créditos  
+
+Projeto desenvolvido com apoio de **Inteligência Artificial**, sob **revisão crítica, validação pedagógica e decisão final humana**, reafirmando o papel do professor como mediador central do processo educativo.
+
+[Assistido por IA]
