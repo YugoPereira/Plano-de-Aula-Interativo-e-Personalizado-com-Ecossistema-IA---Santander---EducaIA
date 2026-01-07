@@ -90,7 +90,6 @@ O plano foi estruturado para uma turma de **32 alunos**, com duração de **50 m
   - `Apresentacao_Aula_IA.pptx`
 
 - 📝 **Reflexão Crítica:**  
-  - `Reflexao_IA.docx`  
   - `Reflexao_IA.pdf`
 
 ---
