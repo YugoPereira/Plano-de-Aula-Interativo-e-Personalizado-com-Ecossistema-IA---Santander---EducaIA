@@ -49,8 +49,6 @@ O plano foi estruturado para uma turma de **32 alunos**, com duração de **50 m
 
 ## 👥 Personalização para Dois Perfis de Estudantes  
 
-## 👥 Personalização para Dois Perfis de Estudantes  
-
 - **Perfil A – Estudante com dificuldades de leitura:**  
   - Linguagem simples, instruções passo a passo, apoio visual extra, tempo adicional e avaliação adaptada.
 
