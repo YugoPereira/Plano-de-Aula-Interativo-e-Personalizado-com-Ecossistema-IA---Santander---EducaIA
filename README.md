@@ -80,17 +80,18 @@ O plano foi estruturado para uma turma de **32 alunos**, com duração de **50 m
 
 ---
 
-## 🔗 Arquivos do Projeto  
+## 🔗 Arquivos do Projeto
 
-- 📄 **Plano de Aula:**  
-  - `Plano_de_Aula_IA.pdf`  
-  - `Plano_de_Aula_IA.docx`
+- 📄 **Plano de Aula:**
+  - [Plano_de_Aula_IA.pdf](Plano_de_Aula_IA.pdf)
+  - [Plano_de_Aula_IA.docx](Plano_de_Aula_IA.docx)
 
-- 📊 **Apresentação:**  
-  - `Apresentacao_Aula_IA.pptx`
+- 📊 **Apresentação:**
+  - [Apresentacao_Aula_IA.pptx](Apresentacao_Aula_IA.pptx)
 
-- 📝 **Reflexão Crítica:**  
-  - `Reflexao_IA.pdf`
+- 📝 **Reflexão Crítica:**
+  - [Reflexao_IA.pdf](Reflexao_IA.pdf)
+
 
 ---
 
